@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\ (Jared\ Muise)\r\n\ Teacher\ Mr.Hardman\r\n\ Lab\ \#2\ GifLab\r\n\ Date\ Last\ Modified\:\ March\ 23/2017\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ plays\ the\ gif\ at\ a\ constant\ loop.\r\n\ Also\ plays\ the\ sound\ that\ matches\ the\ start\ of\ the\ gif.\r\n\ \r\n\ @params\ There\ are\ no\ parametres\ \r\n\ \r\n\ @return\ There\ is\ nothing\ to\ retrun.\r\n
+comment3.params=slow
+comment3.target=void\ setSlowness(int)
+comment3.text=\r\n\ slowness\ makes\ it\ that\ you\ can\ set\ the\ slowness\ of\ the\ gif\ to\ very\ slow\r\n\ or\ very\ fast.\r\n
+comment4.params=
+comment4.target=void\ Started()
+numComments=5
